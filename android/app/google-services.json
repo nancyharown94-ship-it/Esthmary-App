@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340082344368",
+    "project_id": "isthmary",
+    "storage_bucket": "isthmary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340082344368:android:a3f66a2a8da78b54659675",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCXcUbdklKj_oJzEmyFEg1WsIf0pg6yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
